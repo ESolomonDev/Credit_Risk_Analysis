@@ -26,3 +26,5 @@ Below is the accuracy score, confusion matrix and classification report for each
 ![ eeAdaBoost_matrix](imgs/eeAdaBoost_matrix.PNG)
 ![ eeAdaBoost_classreport](imgs/eeAdaBoost_classreport.PNG)
 ## Summary
+
+Easy Ensemble AdaBoost Classifier is the most accurate machine learning algorithim for this paticular problem set in terms of overall accuraccy to make predictions as well as precision (accuracy of positive predictions) and recall (percent of positive cases) values. However, all the models used to create the credit risk analysis show weak precision on determining a high credit risk, for that reason I would not recommend using any of these models to predict credit risk.
